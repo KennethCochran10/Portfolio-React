@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/starter-project/static/css/main.3b43cb36.css",
+    "main.js": "/starter-project/static/js/main.15cd01ec.js",
+    "static/js/787.1ed0c42c.chunk.js": "/starter-project/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Nasa.jpg": "/starter-project/static/media/Nasa.725b0dbf183a6e15064d.jpg",
+    "static/media/OldPortfolio.jpg": "/starter-project/static/media/OldPortfolio.ccb522fc5de0b3be0917.jpg",
+    "static/media/KastStatic.jpg": "/starter-project/static/media/KastStatic.d46a96c5067ecc8126ce.jpg",
+    "static/media/profile.jpg": "/starter-project/static/media/profile.4ed11ab6badf46b9ede2.jpg",
+    "static/media/JobTracker.PNG": "/starter-project/static/media/JobTracker.97fc0603e7d56bc3e4bf.PNG",
+    "static/media/CrudRedux.PNG": "/starter-project/static/media/CrudRedux.fc700d8d96fdcc0e003f.PNG",
+    "static/media/KCLogo.PNG": "/starter-project/static/media/KCLogo.db3464a492352910e1c6.PNG",
+    "index.html": "/starter-project/index.html",
+    "main.3b43cb36.css.map": "/starter-project/static/css/main.3b43cb36.css.map",
+    "main.15cd01ec.js.map": "/starter-project/static/js/main.15cd01ec.js.map",
+    "787.1ed0c42c.chunk.js.map": "/starter-project/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b43cb36.css",
+    "static/js/main.15cd01ec.js"
+  ]
+}
